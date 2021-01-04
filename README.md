@@ -1,4 +1,4 @@
 # MemeShare
 
 
-![alt text](https://raw.githubusercontent.com/pranjalshikhar/MemeShare/master/memeShare_SS.png)
+![alt text](https://raw.githubusercontent.com/pranjalshikhar/MemeShare/master/memeShare_SS.jpg)
